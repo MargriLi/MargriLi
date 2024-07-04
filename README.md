@@ -1,8 +1,10 @@
 # GOOD TO SEE U MY FRIEND 🎉🎉🎉
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MargriLi&show_icons=true&theme=cobalt&bg_color=DEG,1C1C1C,8B2252,CD3278,EE3A8C,8B2252,1C1C1C&text_color=FFB5C5)
+
 ## About me 💅
 
-I'm Margri, a novice user 🙇‍♀️
+Margri, a novice user 🙇‍♀️
 
 - 👩‍🌾 Postgraduate; major in Computer Science 
 - 👩‍🎨 Love painting
