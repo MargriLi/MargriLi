@@ -1,7 +1,7 @@
 # GOOD TO SEE U MY FRIEND 🎉🎉🎉
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MargriLi&show_icons=true&theme=cobalt&bg_color=DEG,1C1C1C,8B2252,CD3278,EE3A8C,8B2252,1C1C1C&text_color=FFB5C5)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MargriLi&layout=compact) -->
 ## About me 💅
 
 Margri, a novice user 🙇‍♀️
