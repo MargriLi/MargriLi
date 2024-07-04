@@ -1,4 +1,14 @@
-## Hi there 👋
+# GOOD TO SEE U MY FRIEND 🎉🎉🎉
+
+## About me 💅
+
+I'm Margri, a novice user 🙇‍♀️
+
+- 👩‍🌾 Postgraduate; major in Computer Science 
+- 👩‍🎨 Love painting
+- 🍰 Love dessert
+- 🎮 Love game
+# Comments are welcome! 💬
 
 <!--
 **MargriLi/MargriLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
