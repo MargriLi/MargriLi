@@ -12,6 +12,8 @@ Margri, a novice user 🙇‍♀️
 - 🎮 Love game
 # Comments are welcome! 💬
 
+![image](1.jpg)
+
 <!--
 **MargriLi/MargriLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
